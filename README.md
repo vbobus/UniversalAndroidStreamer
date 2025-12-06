@@ -1,0 +1,2 @@
+# Universal_Android_Streamer
+ Universal Android Streamer: A versatile Python-based application for effortlessly streaming video from any Android based device onto your computer. This tool utilizes PyQt for a user-friendly interface, enabling users to choose between USB and Wi-Fi for connectivity, and also allowing easy adjustment of video bitrate. Ideal for gaming, app testing, or any situation where larger screen visibility is needed or if the device dosen't have an inbuilt recording feature. 
